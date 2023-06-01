@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Orange Juice",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "112",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "1.7",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "0.5",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "26.8",
+                "unit": "g"
+            },
+            {
+                "name": "Fiber",
+                "value": "0.7",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "21.8",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "199",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin C",
+                "value": "124",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin E",
+                "value": "0.3",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin K",
+                "value": "0.5",
+                "unit": "μg"
+            },
+            {
+                "name": "Thiamin",
+                "value": "0.1",
+                "unit": "mg"
+            },
+            {
+                "name": "Riboflavin",
+                "value": "0.1",
+                "unit": "mg"
+            },
+            {
+                "name": "Niacin",
+                "value": "0.9",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin B6",
+                "value": "0.1",
+                "unit": "mg"
+            },
+            {
+                "name": "Folate",
+                "value": "47",
+                "unit": "μg"
+            },
+            {
+                "name": "Calcium",
+                "value": "27",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "25",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "473",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": [
+            {
+                "name": "Beta-carotene",
+                "value": "120",
+                "unit": "μg"
+            },
+            {
+                "name": "Cryptoxanthin",
+                "value": "116",
+                "unit": "μg"
+            },
+            {
+                "name": "Lutein + Zeaxanthin",
+                "value": "129",
+                "unit": "μg"
+            }
+        ]
+    },
+    {
+        "name": "Green Tea",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "0",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Fiber",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "2",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin C",
+                "value": "0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin E",
+                "value": "0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin K",
+                "value": "0.2",
+                "unit": "μg"
+            },
+            {
+                "name": "Thiamin",
+                "value": "0",
+                "unit": "mg"
+            },
+            {
+                "name": "Riboflavin",
+                "value": "0",
+                "unit": "mg"
+            },
+            {
+                "name": "Niacin",
+                "value": "0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin B6",
+                "value": "0",
+                "unit": "mg"
+            },
+            {
+                "name": "Folate",
+                "value": "1",
+                "unit": "μg"
+            },
+            {
+                "name": "Calcium",
+                "value": "1",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "1",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "8",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": [
+            {
+                "name": "Epigallocatechin gallate (EGCG)",
+                "value": "10",
+                "unit": "mg"
+            },
+            {
+                "name": "Catechins",
+                "value": "10",
+                "unit": "mg"
+            },
+            {
+                "name": "Quercetin",
+                "value": "1",
+                "unit": "mg"
+            }
+        ]
+    },
+    {
+        "name": "Coca-Cola Zero Sugar",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "0",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0",
+                "unit": "g"
+            }
+        ],
+        "micros": [],
+        "antioxidants": []
+    },
+    {
+        "name": "Red Bull Zero Sugar",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "3",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0",
+                "unit": "g"
+            }
+        ],
+        "micros": [],
+        "antioxidants": []
+    }
+]

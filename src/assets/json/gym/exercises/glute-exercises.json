@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Barbell Hip Thrust",
+        "primary": [
+            "Glutes"
+        ],
+        "secondary": [
+            "Hamstrings"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Glute Bridge",
+        "primary": [
+            "Glutes"
+        ],
+        "secondary": [
+            "Hamstrings",
+            "Lower Back"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Lunges",
+        "primary": [
+            "Glutes"
+        ],
+        "secondary": [
+            "Quadriceps",
+            "Hamstrings"
+        ],
+        "type": [
+            "Compound",
+            "Unilateral"
+        ]
+    },
+    {
+        "name": "Step-Ups",
+        "primary": [
+            "Glutes"
+        ],
+        "secondary": [
+            "Quadriceps",
+            "Hamstrings"
+        ],
+        "type": [
+            "Compound",
+            "Unilateral"
+        ]
+    },
+    {
+        "name": "Deadlift",
+        "primary": [
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Lower Back",
+            "Quadriceps"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Cable Kickbacks",
+        "primary": [
+            "Glutes"
+        ],
+        "secondary": [
+            "Hamstrings"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Bulgarian Split Squat",
+        "primary": [
+            "Glutes",
+            "Quadriceps"
+        ],
+        "secondary": [
+            "Hamstrings"
+        ],
+        "type": [
+            "Compound",
+            "Unilateral"
+        ]
+    },
+    {
+        "name": "Side-Lying Clam",
+        "primary": [
+            "Glutes (Medius)"
+        ],
+        "secondary": [
+            "Glutes (Maximus)"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Sumo Squat",
+        "primary": [
+            "Glutes",
+            "Adductors"
+        ],
+        "secondary": [
+            "Quadriceps",
+            "Hamstrings"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Donkey Kicks",
+        "primary": [
+            "Glutes"
+        ],
+        "secondary": [
+            "Hamstrings"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Fire Hydrants",
+        "primary": [
+            "Glutes"
+        ],
+        "secondary": [
+            "Hip Flexors"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Hip Abduction Machine",
+        "primary": [
+            "Glutes (Medius)"
+        ],
+        "secondary": [
+            "Glutes (Maximus)",
+            "Adductors"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    }
+]

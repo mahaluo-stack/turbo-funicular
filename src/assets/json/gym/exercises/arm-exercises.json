@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Barbell Bicep Curl",
+        "primary": [
+            "Biceps Brachii"
+        ],
+        "secondary": [
+            "Brachialis",
+            "Brachioradialis"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Dumbbell Hammer Curl",
+        "primary": [
+            "Biceps Brachii",
+            "Brachialis",
+            "Brachioradialis"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Tricep Pushdown",
+        "primary": [
+            "Triceps Brachii"
+        ],
+        "secondary": [
+            "Forearms"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Skull Crushers",
+        "primary": [
+            "Triceps Brachii"
+        ],
+        "secondary": [
+            "Forearms"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Close-Grip Bench Press",
+        "primary": [
+            "Triceps Brachii"
+        ],
+        "secondary": [
+            "Chest",
+            "Shoulders"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Preacher Curl",
+        "primary": [
+            "Biceps Brachii"
+        ],
+        "secondary": [
+            "Brachialis",
+            "Brachioradialis"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Dips",
+        "primary": [
+            "Triceps Brachii"
+        ],
+        "secondary": [
+            "Chest",
+            "Shoulders"
+        ],
+        "type": [
+            "Compound",
+            "Bodyweight"
+        ]
+    },
+    {
+        "name": "Concentration Curl",
+        "primary": [
+            "Biceps Brachii"
+        ],
+        "secondary": [
+            "Brachialis",
+            "Brachioradialis"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Cable Curl",
+        "primary": [
+            "Biceps Brachii"
+        ],
+        "secondary": [
+            "Brachialis",
+            "Brachioradialis"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Overhead Tricep Extension",
+        "primary": [
+            "Triceps Brachii"
+        ],
+        "secondary": [
+            "Shoulders"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Reverse Curl",
+        "primary": [
+            "Brachioradialis",
+            "Brachialis"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Tricep Dips",
+        "primary": [
+            "Triceps Brachii"
+        ],
+        "secondary": [
+            "Chest",
+            "Shoulders"
+        ],
+        "type": [
+            "Compound",
+            "Bodyweight"
+        ]
+    }
+]

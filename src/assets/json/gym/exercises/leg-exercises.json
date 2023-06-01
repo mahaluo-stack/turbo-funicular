@@ -1,0 +1,155 @@
+[
+    {
+        "name": "Barbell Squat",
+        "primary": [
+            "Quadriceps",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Calves",
+            "Lower Back"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Dumbbell Lunges",
+        "primary": [
+            "Quadriceps",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Calves"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Leg Press",
+        "primary": [
+            "Quadriceps",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Calves"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Romanian Deadlift",
+        "primary": [
+            "Hamstrings",
+            "Glutes"
+        ],
+        "secondary": [
+            "Lower Back"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Leg Curl",
+        "primary": [
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Calves"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Calf Raise",
+        "primary": [
+            "Calves"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Hack Squat",
+        "primary": [
+            "Quadriceps",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Calves"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Step-Ups",
+        "primary": [
+            "Quadriceps",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Calves"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Bulgarian Split Squat",
+        "primary": [
+            "Quadriceps",
+            "Glutes"
+        ],
+        "secondary": [
+            "Hamstrings"
+        ],
+        "type": [
+            "Compound",
+            "Unilateral"
+        ]
+    },
+    {
+        "name": "Seated Calf Raise",
+        "primary": [
+            "Calves"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Leg Extension",
+        "primary": [
+            "Quadriceps"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Glute Bridge",
+        "primary": [
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Quadriceps"
+        ],
+        "type": [
+            "Compound"
+        ]
+    }
+]

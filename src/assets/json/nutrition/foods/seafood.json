@@ -1,0 +1,523 @@
+[
+    {
+        "name": "Tuna",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "184",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "39.9",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "1.0",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Fiber",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0.0",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "0.0",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin C",
+                "value": "0.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin E",
+                "value": "0.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin K",
+                "value": "0.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Thiamin",
+                "value": "0.4",
+                "unit": "mg"
+            },
+            {
+                "name": "Riboflavin",
+                "value": "0.2",
+                "unit": "mg"
+            },
+            {
+                "name": "Niacin",
+                "value": "12.2",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin B6",
+                "value": "1.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Folate",
+                "value": "4.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Iron",
+                "value": "1.3",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "49.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "382.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Calcium",
+                "value": "4.0",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": []
+    },
+    {
+        "name": "Mackerel",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "305",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "31.7",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "20.8",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Fiber",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0.0",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "320.0",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin C",
+                "value": "0.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin E",
+                "value": "4.2",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin K",
+                "value": "0.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Thiamin",
+                "value": "0.3",
+                "unit": "mg"
+            },
+            {
+                "name": "Riboflavin",
+                "value": "0.4",
+                "unit": "mg"
+            },
+            {
+                "name": "Niacin",
+                "value": "8.6",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin B6",
+                "value": "0.4",
+                "unit": "mg"
+            },
+            {
+                "name": "Folate",
+                "value": "12.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Iron",
+                "value": "1.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "53.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "425.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Calcium",
+                "value": "12.0",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": []
+    },
+    {
+        "name": "Salmon",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "206",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "22.0",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "13.4",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Fiber",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0.0",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "219.0",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin C",
+                "value": "0.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin E",
+                "value": "2.8",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin K",
+                "value": "0.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Thiamin",
+                "value": "0.2",
+                "unit": "mg"
+            },
+            {
+                "name": "Riboflavin",
+                "value": "0.3",
+                "unit": "mg"
+            },
+            {
+                "name": "Niacin",
+                "value": "8.5",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin B6",
+                "value": "0.7",
+                "unit": "mg"
+            },
+            {
+                "name": "Folate",
+                "value": "12.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Iron",
+                "value": "0.7",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "30.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "628.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Calcium",
+                "value": "12.0",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": []
+    },
+    {
+        "name": "Cod",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "82",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "18.0",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "0.7",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Fiber",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0.0",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "15.0",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin C",
+                "value": "0.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin E",
+                "value": "0.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin K",
+                "value": "0.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Thiamin",
+                "value": "0.1",
+                "unit": "mg"
+            },
+            {
+                "name": "Riboflavin",
+                "value": "0.1",
+                "unit": "mg"
+            },
+            {
+                "name": "Niacin",
+                "value": "2.5",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin B6",
+                "value": "0.2",
+                "unit": "mg"
+            },
+            {
+                "name": "Folate",
+                "value": "1.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Iron",
+                "value": "0.2",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "25.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "439.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Calcium",
+                "value": "7.0",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": []
+    },
+    {
+        "name": "Shrimp",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "84",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "20.3",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "0.9",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Fiber",
+                "value": "0.0",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0.0",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "47.0",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin C",
+                "value": "1.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin E",
+                "value": "1.6",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin K",
+                "value": "0.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Thiamin",
+                "value": "0.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Riboflavin",
+                "value": "0.1",
+                "unit": "mg"
+            },
+            {
+                "name": "Niacin",
+                "value": "2.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Vitamin B6",
+                "value": "0.1",
+                "unit": "mg"
+            },
+            {
+                "name": "Folate",
+                "value": "1.0",
+                "unit": "μg"
+            },
+            {
+                "name": "Iron",
+                "value": "2.6",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "21.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "148.0",
+                "unit": "mg"
+            },
+            {
+                "name": "Calcium",
+                "value": "35.0",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": [
+            {
+                "name": "Astaxanthin",
+                "value": "0.0",
+                "unit": "mg"
+            }
+        ]
+    }
+]

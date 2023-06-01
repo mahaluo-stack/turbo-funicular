@@ -1,0 +1,9 @@
+export { default as AB_EXERCISES } from './ab-exercises.json';
+export { default as ARM_EXERCISES } from './arm-exercises.json';
+export { default as BACK_EXERCISES } from './back-exercises.json';
+export { default as CHEST_EXERCISES } from './chest-exercises.json';
+export { default as FOREARM_EXERCISES } from './forearm-exercises.json';
+export { default as GLUTE_EXERCISES } from './glute-exercises.json';
+export { default as LEG_EXERCISES } from './leg-exercises.json';
+export { default as NECK_EXERCISES } from './neck-exercises.json';
+export { default as SHOULDER_EXERCISES } from './shoulder-exercises.json';

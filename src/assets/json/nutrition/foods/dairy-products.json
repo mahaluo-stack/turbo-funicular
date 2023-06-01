@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Milk",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "103",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "8.4",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "2.4",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "12.2",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "12.3",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "395",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin B12",
+                "value": "1.1",
+                "unit": "μg"
+            },
+            {
+                "name": "Vitamin D",
+                "value": "115",
+                "unit": "IU"
+            },
+            {
+                "name": "Calcium",
+                "value": "276",
+                "unit": "mg"
+            },
+            {
+                "name": "Magnesium",
+                "value": "24",
+                "unit": "mg"
+            },
+            {
+                "name": "Potassium",
+                "value": "322",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": []
+    },
+    {
+        "name": "Cheese",
+        "macros": [
+            {
+                "name": "Calories",
+                "value": "402",
+                "unit": "kcal"
+            },
+            {
+                "name": "Protein",
+                "value": "25",
+                "unit": "g"
+            },
+            {
+                "name": "Fat",
+                "value": "33.3",
+                "unit": "g"
+            },
+            {
+                "name": "Carbohydrates",
+                "value": "1.3",
+                "unit": "g"
+            },
+            {
+                "name": "Sugar",
+                "value": "0.5",
+                "unit": "g"
+            }
+        ],
+        "micros": [
+            {
+                "name": "Vitamin A",
+                "value": "1059",
+                "unit": "IU"
+            },
+            {
+                "name": "Vitamin B12",
+                "value": "1.1",
+                "unit": "μg"
+            },
+            {
+                "name": "Calcium",
+                "value": "721",
+                "unit": "mg"
+            },
+            {
+                "name": "Phosphorus",
+                "value": "627",
+                "unit": "mg"
+            },
+            {
+                "name": "Sodium",
+                "value": "621",
+                "unit": "mg"
+            },
+            {
+                "name": "Zinc",
+                "value": "3.7",
+                "unit": "mg"
+            }
+        ],
+        "antioxidants": []
+    }
+]

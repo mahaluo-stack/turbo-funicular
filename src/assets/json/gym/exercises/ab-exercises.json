@@ -1,0 +1,148 @@
+[
+    {
+        "name": "Crunches",
+        "primary": [
+            "Rectus Abdominis"
+        ],
+        "secondary": [
+            "Obliques"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Plank",
+        "primary": [
+            "Rectus Abdominis",
+            "Transverse Abdominis"
+        ],
+        "secondary": [
+            "Obliques"
+        ],
+        "type": [
+            "Isometric"
+        ]
+    },
+    {
+        "name": "Russian Twist",
+        "primary": [
+            "Obliques"
+        ],
+        "secondary": [
+            "Rectus Abdominis"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Leg Raises",
+        "primary": [
+            "Rectus Abdominis"
+        ],
+        "secondary": [
+            "Hip Flexors"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Bicycle Crunches",
+        "primary": [
+            "Rectus Abdominis",
+            "Obliques"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Hanging Leg Raises",
+        "primary": [
+            "Rectus Abdominis"
+        ],
+        "secondary": [
+            "Hip Flexors"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Ab Wheel Rollout",
+        "primary": [
+            "Rectus Abdominis"
+        ],
+        "secondary": [
+            "Obliques"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Reverse Crunches",
+        "primary": [
+            "Rectus Abdominis"
+        ],
+        "secondary": [
+            "Hip Flexors"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Mountain Climbers",
+        "primary": [
+            "Rectus Abdominis",
+            "Obliques"
+        ],
+        "secondary": [
+            "Shoulders",
+            "Triceps"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Cable Crunches",
+        "primary": [
+            "Rectus Abdominis"
+        ],
+        "secondary": [
+            "Obliques"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Side Plank",
+        "primary": [
+            "Obliques"
+        ],
+        "secondary": [
+            "Rectus Abdominis"
+        ],
+        "type": [
+            "Isometric"
+        ]
+    },
+    {
+        "name": "V-Ups",
+        "primary": [
+            "Rectus Abdominis"
+        ],
+        "secondary": [
+            "Hip Flexors"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    }
+]

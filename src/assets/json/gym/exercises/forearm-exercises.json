@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Barbell Wrist Curls",
+        "primary": [
+            "Forearms (Flexors)"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Dumbbell Hammer Curls",
+        "primary": [
+            "Forearms (Brachioradialis)"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Reverse Barbell Curls",
+        "primary": [
+            "Forearms (Extensors)"
+        ],
+        "secondary": [
+            "Brachialis",
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Plate Pinches",
+        "primary": [
+            "Forearms (Grip Strength)"
+        ],
+        "secondary": [],
+        "type": [
+            "Isometric"
+        ]
+    },
+    {
+        "name": "Wrist Roller",
+        "primary": [
+            "Forearms (Flexors/Extensors)"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Reverse Dumbbell Curls",
+        "primary": [
+            "Forearms (Extensors)"
+        ],
+        "secondary": [
+            "Brachialis",
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Wrist Extensions",
+        "primary": [
+            "Forearms (Extensors)"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Cable Wrist Curls",
+        "primary": [
+            "Forearms (Flexors)"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Grip Strengthener",
+        "primary": [
+            "Forearms (Grip Strength)"
+        ],
+        "secondary": [],
+        "type": [
+            "Isometric"
+        ]
+    },
+    {
+        "name": "Finger Curls",
+        "primary": [
+            "Forearms (Flexors)"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Wrist Flexions",
+        "primary": [
+            "Forearms (Flexors)"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Wrist Twists",
+        "primary": [
+            "Forearms (Flexors/Extensors)"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    }
+]

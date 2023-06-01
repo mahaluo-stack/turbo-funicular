@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Neck Flexion",
+        "primary": [
+            "Neck Flexors"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Neck Extension",
+        "primary": [
+            "Neck Extensors"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Neck Lateral Flexion",
+        "primary": [
+            "Neck Lateral Flexors"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Neck Rotation",
+        "primary": [
+            "Neck Rotators"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Shrugs",
+        "primary": [
+            "Upper Trapezius"
+        ],
+        "secondary": [
+            "Levator Scapulae"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Barbell Upright Row",
+        "primary": [
+            "Upper Trapezius",
+            "Deltoids (Anterior)"
+        ],
+        "secondary": [
+            "Deltoids (Lateral)",
+            "Rhomboids",
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Seated Neck Harness Extension",
+        "primary": [
+            "Neck Extensors"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Dumbbell Shrugs",
+        "primary": [
+            "Upper Trapezius"
+        ],
+        "secondary": [
+            "Levator Scapulae"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Cable Face Pulls",
+        "primary": [
+            "Rear Deltoids",
+            "Upper Trapezius"
+        ],
+        "secondary": [
+            "Rhomboids",
+            "Rotator Cuff"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Neck Side Bends",
+        "primary": [
+            "Neck Lateral Flexors"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Neck Resistance Training",
+        "primary": [
+            "Neck Flexors",
+            "Neck Extensors",
+            "Neck Lateral Flexors",
+            "Neck Rotators"
+        ],
+        "secondary": [],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Dumbbell Upright Row",
+        "primary": [
+            "Upper Trapezius",
+            "Deltoids (Anterior)"
+        ],
+        "secondary": [
+            "Deltoids (Lateral)",
+            "Rhomboids",
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    }
+]

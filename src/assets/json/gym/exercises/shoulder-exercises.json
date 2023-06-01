@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Barbell Shoulder Press",
+        "primary": [
+            "Deltoids (Anterior)"
+        ],
+        "secondary": [
+            "Deltoids (Lateral)",
+            "Deltoids (Posterior)",
+            "Triceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Dumbbell Lateral Raise",
+        "primary": [
+            "Deltoids (Lateral)"
+        ],
+        "secondary": [
+            "Deltoids (Anterior)",
+            "Deltoids (Posterior)"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Arnold Press",
+        "primary": [
+            "Deltoids (Anterior)",
+            "Deltoids (Lateral)"
+        ],
+        "secondary": [
+            "Deltoids (Posterior)",
+            "Triceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Front Dumbbell Raise",
+        "primary": [
+            "Deltoids (Anterior)"
+        ],
+        "secondary": [
+            "Deltoids (Lateral)",
+            "Deltoids (Posterior)"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Rear Delt Flyes",
+        "primary": [
+            "Deltoids (Posterior)"
+        ],
+        "secondary": [
+            "Deltoids (Lateral)",
+            "Deltoids (Anterior)"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Upright Row",
+        "primary": [
+            "Deltoids (Lateral)"
+        ],
+        "secondary": [
+            "Deltoids (Anterior)",
+            "Trapezius (Upper Fibers)",
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Seated Dumbbell Press",
+        "primary": [
+            "Deltoids (Anterior)",
+            "Deltoids (Lateral)",
+            "Deltoids (Posterior)"
+        ],
+        "secondary": [
+            "Triceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Bent-Over Dumbbell Lateral Raise",
+        "primary": [
+            "Deltoids (Posterior)"
+        ],
+        "secondary": [
+            "Deltoids (Lateral)",
+            "Deltoids (Anterior)"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Push Press",
+        "primary": [
+            "Deltoids (Anterior)",
+            "Deltoids (Lateral)"
+        ],
+        "secondary": [
+            "Deltoids (Posterior)",
+            "Triceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Machine Shoulder Press",
+        "primary": [
+            "Deltoids (Anterior)"
+        ],
+        "secondary": [
+            "Deltoids (Lateral)",
+            "Deltoids (Posterior)",
+            "Triceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    }
+]

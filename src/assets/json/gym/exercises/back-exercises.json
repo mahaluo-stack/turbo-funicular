@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Barbell Deadlift",
+        "primary": [
+            "Erector Spinae",
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Glutes",
+            "Hamstrings",
+            "Forearms"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Dumbbell Row",
+        "primary": [
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Biceps Brachii",
+            "Erector Spinae"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Pull-Ups",
+        "primary": [
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound",
+            "Bodyweight"
+        ]
+    },
+    {
+        "name": "Lat Pulldown",
+        "primary": [
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Seated Cable Row",
+        "primary": [
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "T-Bar Row",
+        "primary": [
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Back Extensions",
+        "primary": [
+            "Erector Spinae",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "secondary": [
+            "Trapezius (Middle and Lower Fibers)",
+            "Latissimus Dorsi"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Reverse Flyes",
+        "primary": [
+            "Rhomboids",
+            "Rear Deltoids"
+        ],
+        "secondary": [
+            "Trapezius (Middle and Lower Fibers)",
+            "Latissimus Dorsi"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Bent-Over Row",
+        "primary": [
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Single-Arm Dumbbell Row",
+        "primary": [
+            "Latissimus Dorsi",
+            "Trapezius (Middle and Lower Fibers)",
+            "Rhomboids"
+        ],
+        "secondary": [
+            "Biceps Brachii"
+        ],
+        "type": [
+            "Compound",
+            "Unilateral"
+        ]
+    }
+]

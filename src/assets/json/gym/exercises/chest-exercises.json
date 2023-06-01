@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Barbell Bench Press",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Dumbbell Bench Press",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Incline Barbell Bench Press",
+        "primary": [
+            "Pectoralis Major (Clavicular)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Incline Dumbbell Bench Press",
+        "primary": [
+            "Pectoralis Major (Clavicular)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Decline Barbell Bench Press",
+        "primary": [
+            "Pectoralis Major (Sternal)",
+            "Lower Pectoralis Major"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Decline Dumbbell Bench Press",
+        "primary": [
+            "Pectoralis Major (Sternal)",
+            "Lower Pectoralis Major"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Dumbbell Flyes",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Cable Crossover",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Push-Ups",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound",
+            "Bodyweight"
+        ]
+    },
+    {
+        "name": "Dips",
+        "primary": [
+            "Pectoralis Major (Sternal)",
+            "Pectoralis Major (Clavicular)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound",
+            "Bodyweight"
+        ]
+    },
+    {
+        "name": "Incline Dumbbell Flyes",
+        "primary": [
+            "Pectoralis Major (Clavicular)"
+        ],
+        "secondary": [
+            "Anterior Deltoids"
+        ],
+        "type": [
+            "Isolation"
+        ]
+    },
+    {
+        "name": "Machine Chest Press",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Hammer Strength Chest Press",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    },
+    {
+        "name": "Smith Machine Bench Press",
+        "primary": [
+            "Pectoralis Major (Sternal)"
+        ],
+        "secondary": [
+            "Anterior Deltoids",
+            "Triceps Brachii (Long Head)"
+        ],
+        "type": [
+            "Compound"
+        ]
+    }
+]

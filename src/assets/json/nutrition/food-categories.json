@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Berries"
+    },
+    {
+        "id": 1,
+        "name": "Beverages"
+    },
+    {
+        "id": 2,
+        "name": "Dairy Products"
+    },
+    {
+        "id": 3,
+        "name": "Fruits"
+    },
+    {
+        "id": 4,
+        "name": "Grains and Cereals"
+    },
+    {
+        "id": 5,
+        "name": "Legumes"
+    },
+    {
+        "id": 6,
+        "name": "Meat and Poultry"
+    },
+    {
+        "id": 7,
+        "name": "Seafood"
+    },
+    {
+        "id": 8,
+        "name": "Vegetables"
+    }
+]
